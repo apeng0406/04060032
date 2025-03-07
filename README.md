@@ -8,6 +8,4 @@ Set the following repo secrets, disable the security defaults of your E5 admin a
 | USER   | E5 admin emails line separated, no leading and trailing spaces    |
 | PASSWD | E5 admin passwords line separated, no leading and trailing spaces |
 
-<p align="right"><code>version@2023xxxxxxx</code></p>
-
-
+<p align="right"><code>version@202305070221</code></p>
